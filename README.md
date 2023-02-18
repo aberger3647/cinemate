@@ -6,7 +6,7 @@
 
 A movie app that shows trailers and reviews, and allows the user to save their favorites to a list. 
 
-[Deployed App](https://sidgray80.github.io/cinemate/index.html)  
+[Deployed App](https://aberger3647.github.io/cinemate/)  
   
 ## Table of Contents
 - [Screenshots](#screenshots)
